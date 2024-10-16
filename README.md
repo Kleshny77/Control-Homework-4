@@ -1,2 +1,2 @@
-# Control-Homework-1.-Junuary
-My Control Homework in HSE FCS SE
+# Control-Homework-4
+Контрольное домашнее задание №4 по предмету "Программирование на С#" на ФКН ПИ в НИУ ВШЭ
